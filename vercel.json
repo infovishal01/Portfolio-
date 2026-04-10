@@ -1,15 +1,7 @@
 {
-<<<<<<< HEAD
-  "routes": [
-    { "src": "/(.*)", "dest": "/" }
-  ]
-}
-=======
-  "installCommand": "npm install",
   "buildCommand": "npm run build",
   "outputDirectory": "build",
   "routes": [
     { "src": "/(.*)", "dest": "/" }
   ]
 }
->>>>>>> 2b795dc (update)
