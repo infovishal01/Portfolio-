@@ -14,7 +14,7 @@ const ContactSection = () => {
     <Element name="contact">
       <div className="contact__container">
         <div className="contact__intro">
-          <h1>sold yet?</h1>
+          <h1>Interested in working together?</h1>
           <p>
             Thanks for stopping by, I’m currently looking to join a new team of
             creative developers. If you think we might be a good
