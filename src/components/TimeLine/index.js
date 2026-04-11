@@ -107,7 +107,7 @@ export default function OppositeContentTimeline() {
 
       <TimelineItem>
         <TimelineOppositeContent color="blueviolet"style={{fontSize:"2rem",fontWeight:"800"}}>
-          Senior Secondary (June 2021-April 2021)
+          Senior Secondary (June 2020-April 2021)
         </TimelineOppositeContent>
         <TimelineSeparator>
           <TimelineDot />
